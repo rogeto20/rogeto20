@@ -2,4 +2,4 @@
 - 👀 I’m interested in Technology and Video Games
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on anything fun
-- 📫 How to reach me Email: rogeto20@jcu.edu,
+- 📫 How to reach me Email: rogeto20@jcu.edu
